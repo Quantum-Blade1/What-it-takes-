@@ -30,4 +30,20 @@ diff compilers etc.. i can talk about this a lot(but ya i dont wanna make it hea
 and if u are a beginner and intrested just try to understand how *GCC works* for a perticular lang, then multi language
 i feel this is the path which can't be replace bcs its the core/base foundation of everything and its so complex to understand modern ai tech even LLM's need compilers haha
 
-- quantum computating, this is so facinating (my laptop is in drugs at 2:30AM, need a reboot i think for the drivers then i I'll talk about this) 
+- quantum computating, this is so facinating (my laptop is in drugs at 2:30AM, need a reboot i think for the 
+drivers then i I'll talk about this) all done!>>>
+## Quantum
+obiously the most exciting, futuristic tech u can say (i personaly thinks its just a common tech) 
+using classical physics + quantum machanics + coding = quantum computation, absolute one liner
+"it's not any hype - but most people are hyping this tech in a wrong direction"
+- what i believe with my statements : its real and mathematically grounded stuff people spend a lot time for this tech for example : shor's algorithm breaks RSA(security related), grover's search gives a genuine quadratic speedup, physics is goated but we are nowhere near fault tolerant universal quantum computers at scale the hype cycle is crazy of the hardware by at least a decade and we need people who value this tech and yes it can't be learned by ai u need to have a foundation in respected physics and maths 
+- where i've worked in this space : i built DQC - a MLIR-based compiler targeting quantum circuits with a 4-layer pass pipeline and MPI layer, ik it sounded so cool but its the most hardest work i did for smtg next QCEC verification system related using zx-calculus(graphical calculus) currently implementing Shor's algorithm in qiskit and studying post quantum cryptography (lattice-based, BB84, E91)
+- compiler angle - my actual interest : this excites me most the qubit itself it's the stack between the algorithm and the hardware circuit optimization, dialect lowering in MLIR, noise aware compilation, classical quantum offloading that is where most of the engineering work is for and it's deeply underexplored but i want to and NISQ devices(related to quantum hardware) are noisy, shallow, and limited algorithms like VQE and QAOA are interesting but don't have clear quantum advantage proofs i'm more bullish on QKD and post quantum cryptography than "quantum ML"-this feels like two hype cycles together.(ik that u didn't understood any single part of this)
+- what i tell people who ask about this tech : linear algebra understand wt superposition, entanglement actually mean, and don't trust anyone who says "quantum beats classical" those benchmarks are comparing specialized quantum hardware to a naive classical implementation
+
+i think i said a lot and **i used my notes and my views for writing this** not any fancy ai
+
+
+now lets jump to main question "is coding worth today?"
+(i need sleep, but we r engineergs lol)
+there are some parameters to know before getting to answering this question
